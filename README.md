@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, My name is Kachi Ejiogu.
+
+#### I am Data Analyst
+
+#### I'm also a Business Development Executive with Capitis Global Limited
+
+#### I'm passionate about upscaling and assisting small team businesses in that they optimize thier time and workflows without adding more headcount and representatives can advance thier careeers.  
 
 <!--
 **kachiejiogu/kachiejiogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
